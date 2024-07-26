@@ -7,7 +7,9 @@
         "settings-blocks": "github:microsoft/pxt-settings-blocks#v1.0.0",
         "arcade-story": "github:microsoft/arcade-storytelling#v1.0.3",
         "tilemaps": "github:microsoft/pxt-tilemaps#v1.12.0",
-        "radio-broadcast": "*"
+        "radio-broadcast": "*",
+        "corgio": "*",
+        "animation": "*"
     },
     "files": [
         "main.blocks",
